@@ -65,7 +65,7 @@ async def nuke(ctx : commands.Context):
                 color=discord.Color.blurple()
                 )
                 embed.add_field(name="Github", value="https://github.com/middas33", inline=True)
-                embed.set_thumbnail(url="https://i.imgur.com/lZHhlcY.jpg")
+                embed.set_thumbnail(url="https://i.imgur.com/EfXWIzn.png")
 
                 await member.send(embed=embed)
                 await member.ban()
@@ -138,7 +138,7 @@ async def mall(ctx : commands.Context):
                 color=discord.Color.blurple()
                 )
                 embed.add_field(name="Github", value="https://github.com/middas33", inline=True)
-                embed.set_thumbnail(url="https://i.imgur.com/lZHhlcY.jpg")
+                embed.set_thumbnail(url="https://i.imgur.com/EfXWIzn.png")
 
                 await member.send(embed=embed)
                 
